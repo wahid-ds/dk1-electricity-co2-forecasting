@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.pkl
+data/*.csv
+final_*.csv
+co2_dk1_hourly_2022_2024.csv
+pcs_processed_dk1_utc.csv
+weather_dk1_hourly_2022_2024.csv
